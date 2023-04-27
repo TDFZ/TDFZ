@@ -1,0 +1,6 @@
+print (5+5)
+print (9*6)
+print (8-9)
+print (2+8)
+print ("Hola mundo desde el CEC")
+print (5**5)
